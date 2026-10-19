@@ -12,8 +12,8 @@ Flutter assignments and lab exercises from the *Software for Mobile Devices* ele
 | `01-first-app` | First Flutter app: a random word-pair generator |
 | `02-layout-basics` | Layout widgets (Row, Column, Container, etc.) |
 | `03-networking` | REST API calls with `http` |
-| `04-custom-paint` | Drawing with `CustomPainter` |
-| `05-animation` | Flutter's animation APIs |
+| `04-custom-paint` | Unmodified Flutter starter template (CustomPainter work was never committed) |
+| `05-animation` | Playing a Rive (`.riv`) vector animation |
 | `06-battery-platform-channel` | Platform channels, reading native battery level |
 | `07-todo-list` | A todo list app (local state, CRUD) |
 | `08-infinite-list-bloc` | Infinite-scrolling list using the BLoC pattern |
